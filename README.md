@@ -1,2 +1,4 @@
 # redux
-Redux
+Основы Redux
+
+npm install
